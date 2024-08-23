@@ -5,7 +5,7 @@ Incluye la explicación para instalarlo junto a Windows para tener ambos sistema
 
 Puedes obtener ayuda del autor de este tutorial mandando mensaje a @Changeryto en Github, o por telegram en @Senado\_y\_Pueblo\_de\_Roma.
 
-## 1. Breve reseña histórica.
+## 0. Breve reseña histórica.
 
 __Esta primera sección describe un pequeño antecedente histórico de Linux (o más adecuadamente GNU/Linux), puedes saltarla sin problema, pero te prometo que vale la pena.__
 
@@ -39,3 +39,46 @@ Ese mismo año, Linus Torvalds, por entonces estudiante de ingeniería de softwa
 <img src="Linus-Torvalds.webp" width="65%">
 
 El crecimiento de ambos proyectos eventualmente logra un sistema operativo tan confiable que actualmente es el preferido de los servidores de cualquier organización u empresa, y por desarrolladores de software y científicos de datos de todo tipo.
+
+## 1. Elegir el sistema operativo
+
+Actualmente, GNU/Linux se distribuye en distros o distribuciones creadas por distintas organizaciones y empresas, una distribución es resumidamente, el conjunto de programas y configuraciones que forman el sistema operativo en particular.
+
+Como los principios del software libre lo declaran, cualquiera puede distribuir sus propias modificaciones de un software libre, por lo que algunas distribuciones fueron creadads a partir del trabajo creado por otras.
+
+Las distribuciones más amables con usuarios nuevos, que además cuentan con una enorme base de usuarios dispuestos a ayudar a otros en foros en línea, son las siguientes.
+
+1. Linux Mint. Una distribución derivada de Ubuntu, con la mayoría de configuraciones listas y un entorno de escritorio muy intuitivo similar a Windows. [(Descargalo aquí)](https://linuxmint.com/download.php)
+2. Ubuntu. Una distribución derivada de Debian, por defecto tiene el entorno de escritorio Gnome, intuitiva pero requiere adapatarse, es la distribución más pesada y con frecuencia menos optimizada de las comentadas aquí, pero tiene la comunidad de mayor tamaño. [(Descargalo aquí)](https://ubuntu.com/download/desktop)
+3. Fedora. Una distribución de actualización frecuente, con interfaz Gnome, pero usualmente con mejor compatibilidad para hardware infrecuente, como las pantallas táctiles en una laptop. Al no estar basado en Debian ni en Ubuntu la comunidad es más reducida, aún así es lo suficientemente grande para cubrir sin dificultad la mayoría de preguntas de cualquier usuario. [(Descargalo aquí)](https://fedoraproject.org/es/workstation/download)
+
+Cualquier distriución te permitirá trabajar en este curso.
+
+Es recomendable __descargar el ISO la última versión LTS__.
+
+### Linux Mint
+
+Si has escogido Linux Mint, selecciona el botón "Download" presente debajo de "Cinnamon Edition"
+
+<img src="Descarga_Mint_1.png" width="100%">
+
+Te redirige a esta página, baja hasta __Download mirrors__ y selecciona cualquiera.
+
+<img src="Descarga_Mint_2.png" width="100%">
+
+Inmediatamente el archivo .iso empezará su descarga.
+
+### Ubuntu
+
+Selecciona "Download <versión> LTS"
+
+<img src="Descarga_Ubuntu.png" width="100%">
+
+Inmediatamente empezará la descarga.
+
+### Fedora
+
+Para seguir este tutorial, selecciona el botón de descarga al lado de Fedora Workstation <versión> Live ISO (que se encuentra debajo de __Para sistemas Intel y AMD x86_64__), inmediatamente comensará la descarga del archivo .iso
+
+
+## 2. Grabar el archivo ISO en una memoria USB.
