@@ -18,6 +18,6 @@ Este sistema operativo deriva de una reimplementación del sistema operativo UNI
 
 <img src="Ken_Thompson_and_Dennis_Ritchie.jpg", alt="Ken Thompson y Dennis Ritchie, autores del UNIX original", width="200%" />
 
-<img src="Ken_Thompson_and_Dennis_Ritchie.jpg" width="100" height="100">
+<img src="Ken_Thompson_and_Dennis_Ritchie.jpg" width="100%">
 
 ![Ken Thompson y Dennis Ritchie, autores del UNIX original](Ken_Thompson_and_Dennis_Ritchie.jpg "Ken Thompson y Dennis Ritchie, autores del UNIX original")
