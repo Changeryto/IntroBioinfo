@@ -10,6 +10,7 @@ Puedes obtener ayuda del autor de este tutorial mandando mensaje a @Changeryto e
 __Esta primera sección describe un pequeño antecedente histórico de Linux (o más adecuadamente GNU/Linux), puedes saltarla sin problema, pero te prometo que vale la pena.__
 
 _Me gustaría interferir por un momento. A lo que te estás refiriendo como Linux, es en realidad, GNU/Linux, (...)._
+
 \- Autor desconocido.
 
 Este sistema operativo deriva de una reimplementación del sistema operativo UNIX original creado en _AT&T Bell Laboratories_, por Ken Thompson y Dennis Ritchie.
