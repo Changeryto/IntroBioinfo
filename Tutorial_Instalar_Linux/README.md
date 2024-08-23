@@ -82,3 +82,22 @@ Para seguir este tutorial, selecciona el botón de descarga al lado de Fedora Wo
 
 
 ## 2. Grabar el archivo ISO en una memoria USB.
+
+Necesitas usar una memoria USB, cuyo contenido acabes de respaldar (pues vamos a formatear toda información en ella).
+
+También necesitarás un programa para grabar el archivo ISO en una memoria USB flash, lo más común es usar Rufus y es lo que este tutorial usará [(descárgalo aquí)](https://rufus.ie/es/). Te recomiendo descargar la versión portable.
+
+<img src="rufus.png" width="100%">
+
+Después de obtener tanto la ISO (archivo con extensión .iso del sistema operativo descargado) como rufus:
+
+1. Conecta la memoria USB al equipo (recuerda que todos los datos que tenga van a borrarse).
+2. Abre Rufus.
+3. En "Device", selecciona tu memoria USB.
+4. En "Boot selection" presiona el botón "SELECCIONAR", y busca el archivo .iso que acabas de descargar.
+5. Deja el resto de valores por defecto y selecciona "EMPEZAR".
+6. Espera a que el procedimiento termine.
+
+Esta memoria ahora es un dispositivo de arranque.
+
+<img src="rufus_2.png" width="100%">
